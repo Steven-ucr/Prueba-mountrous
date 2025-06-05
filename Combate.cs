@@ -36,7 +36,7 @@ public class Combate
 
 
 
-
+// peneeeee
    //Console.WriteLine("Ingrese el nombre del Mountrou");
    //String nombre=Console.ReadLine();
    //Console.WriteLine("Ingrese el tipo de Mountrou");
