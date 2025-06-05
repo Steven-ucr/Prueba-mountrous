@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Brandonledoy10rojosporel100/1.0.0": {
+        "runtime": {
+          "Brandonledoy10rojosporel100.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Brandonledoy10rojosporel100/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
